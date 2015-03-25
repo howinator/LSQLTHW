@@ -15,7 +15,7 @@ CREATE TABLE pet (
 
 CREATE TABLE person_pet (
   person_id INTEGER,
-  ped_id INTEGER
+  pet_id INTEGER
 );
 
 
