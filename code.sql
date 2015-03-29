@@ -1,6 +1,8 @@
 /*  This script is just exercises two through seven */
 
-DROP TABLE person, pet, person_pet
+DROP TABLE person;
+DROP TABLE pet;
+DROP TABLE person_pet;
 
 CREATE TABLE person (
   id INTEGER PRIMARY KEY,
